@@ -1,4 +1,4 @@
-# 8-bit-Calculator
+# Calculator
 - This calculator is programmed in C language with some basic operations +, -, *, /. It takes input numbers and an operation from the user through 4x4 matrix keypad
 - The calculator is programmed on Microchip Studio and simulated on Proteus
 - The software composes of 2 input number. Firstly, the user will be input the first number until they press an operation (+, -, x, /)
